@@ -1,0 +1,8 @@
+*.exe
+.idea/
+*.png
+/logs/
+*.log
+/config/config.yml
+/chromium-857950/
+/tools
