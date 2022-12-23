@@ -1,7 +1,7 @@
 <template>
   <div class="login-container h-screen flex flex-col justify-center items-center overflow-hidden">
     <div class="logo">
-      <img src="/static/xxqg/src/assets/vite_logo.png">
+      <img src="../../../assets/vite_logo.png">
     </div>
     <div class="form">
       <van-cell-group inset>
